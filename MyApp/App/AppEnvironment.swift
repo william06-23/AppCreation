@@ -1,4 +1,5 @@
 import SwiftUI
+import Combine
 
 // MARK: - 全局依赖环境
 // 聚合所有 Service，通过 @Published 暴露状态，下游视图用 @EnvironmentObject 取用

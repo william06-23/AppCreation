@@ -1,4 +1,5 @@
 import SwiftUI
+import Combine
 
 // MARK: - Flappy Bird ViewModel
 // 职责：管理游戏循环、物理计算、碰撞检测、计分
